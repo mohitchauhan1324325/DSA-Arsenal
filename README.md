@@ -225,16 +225,16 @@ When revising, focus on:
 
 | Topic | Status |
 |---|:---:|
-| Arrays | 🔴 |
-| Strings | 🔴 |
-| Hashing | 🔴 |
-| Stack | 🔴 |
-| Queue | 🔴 |
+| Arrays | 🟡 |
+| Strings | 🟡 |
+| Hashing | 🟡 |
+| Stack | 🟡 |
+| Queue | 🟡 |
 | Linked List | 🔴 |
 | Binary Search | 🔴 |
 | Trees | 🔴 |
 | Heap | 🔴 |
-| Backtracking | 🔴 |
+| Backtracking | 🟡 |
 | Graphs | 🔴 |
 | Greedy | 🔴 |
 | Dynamic Programming | 🔴 |
