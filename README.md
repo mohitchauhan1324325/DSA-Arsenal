@@ -1,19 +1,3 @@
-Haan, sahi bol raha hai. Tera repo **revision ke liye hai**, portfolio/show-off README nahi. Isliye README mein sirf woh cheezein honi chahiye jo baad mein kholke **jaldi revise karne mein help karein**.
-
-Main ise simple aur useful rakhta:
-
-- Repo ka purpose
-- Topics
-- Har topic ke important patterns
-- Templates
-- Problems
-- Problem-solving notes
-- Progress
-- Revision checklist
-- Repository structure
-
-Ye lo **paste-ready README**:
-
 <div align="center">
 
 # ⚡ DSA Revision
