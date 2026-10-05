@@ -1,6 +1,8 @@
 /*
 Prime Number
 
+Difficulty: Easy
+
 Given a number n, determine whether it is a prime number or not.
 Note: A prime number is a number greater than 1 that has no positive divisors
 other than 1 and itself.
@@ -22,7 +24,6 @@ Explanation: 1 has only one divisor (1 itself), which is not sufficient for it
 to be considered prime.
 
 Constraints:
-
 1 ≤ n ≤ 109
 
 Expected Complexities

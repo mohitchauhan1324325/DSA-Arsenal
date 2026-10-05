@@ -1,6 +1,8 @@
 /*
 Arithmetic Operators
 
+Difficulty: Easy
+
 Given two integer variables x and y, perform the following operations:
 
 p: Addition of x and y
@@ -31,11 +33,10 @@ Output: 7 -1 12 0.750 0 3
 Explanation: The given operations are performed.
 
 Constraints:
-
 -100 ≤ x, y ≤ 100
 y != 0
 
-Expected Complexities
+Expected Complexities:
 Time Complexity: O(1)
 Auxiliary Space: O(1)
 */
