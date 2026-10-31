@@ -94,7 +94,7 @@ int shortestPath(vector<vector<int>>& grid, pair<int, int> source,
     }
 
     // Distance matrix
-    vector<vector<int>> dist(n, vector<int>(m, 1e9));
+    vector<vector<int>> dist(n, vector<int>(m, -1));
 
     queue<pair<int, int>> q;
 
@@ -128,7 +128,7 @@ int shortestPath(vector<vector<int>>& grid, pair<int, int> source,
             if (newRow >= 0 && newColumn >= 0 &&
                 newRow < n && newColumn < m &&
                 grid[newRow][newColumn] == 1 &&
-                dist[newRow][newColumn] > dist[r][c] + 1) {
+                dist[newRow][newColumn] == -1) {
 
                 dist[newRow][newColumn] = dist[r][c] + 1;
 
